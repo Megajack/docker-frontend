@@ -1,6 +1,6 @@
 Build local container.
 
-Put Dockerfile any place then run
+Put Dockerfile any place then run (can take some time)
 
 `docker build -t front .`
 
